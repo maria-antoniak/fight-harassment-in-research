@@ -4,9 +4,12 @@
 This is a document written by graduate students for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
 [Contexual Notes](#contextual-notes)
-<!-- 2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2) -->
+[Recommendations](#recommendations)
+[Reflections & Open Questions](#reflections)
+[Background](#background)
+[Researchers to Follow](#researchers)
+[Authorship](#authorship)
+
 
 <br><br>
 
@@ -21,7 +24,7 @@ This is a document written by graduate students for everyone involved in academi
 
 <br><br>
 
-## RECOMMENDATIONS
+## RECOMMENDATIONS <a name="recommendations"></a>
 
 
 ### Inaction is action
@@ -268,7 +271,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 <br><br>
 
-## REFLECTIONS & OPEN QUESTIONS
+## REFLECTIONS & OPEN QUESTIONS <a name="reflections"></a>
 
 - It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They hurt our research and scientific advances in so many ways, in addition to all the human costs of their harassment and abuse. 
 
@@ -276,7 +279,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 <br><br>
 
-## BACKGROUND
+## BACKGROUND <a name="background"></a>
 
 - [Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal](https://journals.sagepub.com/doi/10.1177/0092055X211022471) by Nicole Bedera
 - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
@@ -293,7 +296,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 <br><br>
 
-## RESEARCHERS TO FOLLOW
+## RESEARCHERS TO FOLLOW <a name="researchers"></a>
 
 These are researchers focused on sexual harassment in academia whose work we recommend. They were not involved in the creation of this document.
 
@@ -303,7 +306,7 @@ These are researchers focused on sexual harassment in academia whose work we rec
 
 <br><br>
 
-## AUTHORSHIP
+## AUTHORSHIP <a name="authorship"></a>
 
 This document was written by Maria Antoniak and Alexa VanHattum, with significant input from other graduate students and faculty from Cornell and other universities. 
 
