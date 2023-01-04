@@ -23,7 +23,7 @@ This is a document written by graduate students for everyone involved in academi
 - This document is not about other gender-based struggles in tech and academia for equal pay, promotions, hiring, etc. 
 - This document is not trying to convince anyone who doesn’t believe that sexual harassment is a problem. This document is targeted towards sympathetic allies. Likewise, none of our suggestions are aimed at perpetrators because we don’t know of any research that this would work (happy to be proven wrong, please let us know if you have evidence).
 - This document is not focused on undergraduate students (e.g., it doesn’t discuss important aspects of the undergraduate experience like fraternities, dorms, and underage drinking).
-- This document uses the term “victim” throughout, but different people might prefer “victim” or “survivor” depending on the recency of the experience, the framing of the discussion, and other factors. See here for a brief discussion of these terms.
+- This document uses the term “victim” throughout, but different people might prefer “victim” or “survivor” depending on the recency of the experience, the framing of the discussion, and other factors. See [here](https://www.rainn.org/articles/key-terms-and-phrases) for a brief discussion of these terms.
 - **Additions and edits are welcome and necessary!** Please feel free to make pull requests and/or contact us be email.
 
 <br><br>
