@@ -3,9 +3,14 @@
 
 This is a document written by graduate students for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
+[Contexual Notes](#contextual-notes)
+<!-- 2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2) -->
+
 <br><br>
 
-## CONTEXTUAL NOTES
+## CONTEXTUAL NOTES <a name="contextual-notes"></a>
 
 - This document should be understood as a series of “patches” rather than a single overarching solution to sexual harassment. There are immediate steps that we can take as a community to help people, even if the larger solutions are still unclear.
 - This document is not about other gender-based struggles in tech and academia for equal pay, promotions, hiring, etc. 
