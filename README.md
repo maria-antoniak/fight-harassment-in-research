@@ -308,6 +308,8 @@ These are researchers focused on sexual harassment in academia whose work we rec
 - [Dr. Nicole Bedera](https://twitter.com/NBedera)
 - [Dr. Celene Reynolds](https://mobile.twitter.com/celenereynolds)
 - [Dr. Kate Clancy](https://twitter.com/KateClancy)
+- [Dr. Sarah Peitzmeier](https://twitter.com/SarahPeitzmeier)
+- [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
 
 <br><br>
 
