@@ -202,3 +202,27 @@ This is a document written by graduate students for everyone involved in academi
 - You can completely circumvent Title IX and your university by going directly to the U.S. Office of Civil Rights.
     - You can file a complaint [here](https://www.hhs.gov/civil-rights/filing-a-complaint/index.html).
 
+
+### Personal actions if you have power (e.g., tenured professor)
+
+- Understand that when you prioritize giving a harasser a second chance, there will likely be a large, expanding cost to their past and future victims, and to the general trust in your community. Consider instead giving a “second chance” to the victims.
+    - This isn’t meant to be retributive, and this doesn’t mean you should never give someone a second chance. It means considering how many chances this person has already had, how many chances their victims have had, and how your community can both protect victims and create an environment where harassment is unlikely (the harasser has a chance to not be a harasser).
+    - If tempted to protect a serial harasser because of their research, consider that their research output, no matter how brilliant, does not outweigh the lost output of multiple other people being forced from the field. 
+
+- Your name as a researcher carries a ton of weight and respect (even awe for junior students). Use it wisely.
+    - For serious cases of harassment or other abuse:
+        - Think very carefully about collaborating with someone you know has harassed, abused, or assaulted others. Think about what this signals to other people in your community who are aware of the perpetrator. Think about this signals to the victims. Think about how those not in the know (e.g., more junior students) might interpret your association as an endorsement, leading to fresh victims for the perpetrator.
+        - Similarly, think carefully before promoting their work (e.g., on social media or via emails) or sharing or endorsing their their hiring advertisements.
+        - Citing and teaching a harasser’s work can itself carry harms, but not citing or teaching their work can also harm their (possibly junior) coauthors. Consider how to cite and teach while giving context to your audience.
+
+- You might make mistakes. Harassers are often very good at disguising their actions, and they might behave very, very nicely to you and others who aren’t their victims. But at least do some research and ask around, and try to do better going forward.
+    - [Harassers are nice to me, and probably to you](https://leaddev.com/culture-engagement-motivation/harassers-are-nice-me-and-probably-you) by Sarah Milstein
+
+- Talk to your students one-on-one about TA assignments. Check that they’re comfortable with the professor and other TAs. If you know a professor or TA will cause problems, shield your student by letting them TA for a different course.
+
+- When hiring, speak with multiple references/contacts by phone if possible.
+
+- As an advisor, if your students aren’t bringing you problems, they probably don’t trust you. Grad students have all kinds of problems (money and reimbursements, family, physical and mental health, visa issues, research, sexual harassment, racial harassment, etc.) so if you haven’t heard anything, it’s unlikely to be because they’re not experiencing problems — they’re just not telling you.
+
+- Speaking up or calling people out can be scary. It takes practice! Consider taking bystander training to prepare yourself.
+
