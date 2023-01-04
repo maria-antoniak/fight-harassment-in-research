@@ -62,8 +62,21 @@ This is a document written by graduate students for everyone involved in academi
 ### Offer evidence-based training sessions
 
 - There is evidence that trainings that focus on feminist empowerment (“Flip the Script”) can reduce rates of sexual violence and reduce self-blame in those who experience sexual assault.
-    - [Research on "Flip the Script"](https://charlenesenn.ca/research/) by Dr. Charlene Y. Senn and Dr. Sarah M. Peitzmeier
+    - [Research on "Flip the Script"](https://charlenesenn.ca/research/) by Charlene Y. Senn and Sarah M. Peitzmeier
     - This Twitter [thread](https://twitter.com/NBedera/status/1217893354991575040) by Nicole Bedera
     - *Note: Yes, it’s unfortunate that we have to train victims to protect themselves rather than train harassers to stop harassing, but this training does seem to be effective.*
 
+- Consider the negative effects of trainings on imposter syndrome, teaching women to talk or act like men, implicit bias, etc. If you want to include physical self-defense trainings, be careful to select programs that are evidence-based.
+    - [How Diversity Training Hurts Diversity](https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481) by Rachel Thomas
+    - This Twitter [thread](https://twitter.com/nbedera/status/1218221038560874497) on physical self-defense trainings by Nicole Bedera
+    - [Stop Telling Women They Have Imposter Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by by Ruchika Tulshyan and Jodi-Ann Burey
+    - [All Career Advice for Women is a Form of Gaslighting](https://qz.com/work/1363399/all-career-advice-for-women-is-a-form-of-gaslighting/) by Ephrat Livni
 
+- Create trainings on what to expect at conferences and what is acceptable and not acceptable behavior. Make sure students know where to report incidents in different scenarios (at conferences, while TAing, at department social events, etc).
+
+- Fund and promote bystander training so that harmful behavior is immediately called out.
+    - Here’s one nice method to employ as a bystander: [“We don’t do that here.”](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html )
+
+- Consider the framing, timing, and required audience for trainings. 
+    - Requiring sexual harassment training for everyone can be upsetting to victims, who can feel gaslit by these trainings after negative experiences seeking protection or recourse from the same institutions giving the training. 
+    - One option (e.g. used at the University of Washington) is to provide an opt-out for most of the modules of the training for anyone who emails asking for accommodations (no explanation necessary, but you do have to make the extra effort to email Title IX).
