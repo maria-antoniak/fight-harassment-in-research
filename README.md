@@ -112,3 +112,19 @@ This is a document written by graduate students for everyone involved in academi
 - In general: normalize calling people out immediately. Foster the sense that “we’re a team that needs to keep each other safe and that means calling each other out.” We all make mistakes sometimes, and calling each other out also means accepting each other’s fallibility.
     - [Community Agreements from the Intergroup Dialog Project](https://idp.cornell.edu/idp-resources/idp-resource-community-agreements/) at Cornell University
     - [Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246) from Harvard University DEI
+
+
+### Get rid of compelled reporting (for adult victims)
+
+- Compelled reporting (where someone reports what a victim has told them, even when the victim asks them not to share) can lead to retaliation, re-traumatizing by the investigation process (see below about TItle IX), and other harms. Respect the agency of the victim.
+
+- Mandatory reporting policies, which are common at universities, often require compelled reporting. Until these policies change, you should make explicit who is a mandatory reporter and make explicit that confidentiality matters (as victims might not be aware of the harms that can arise from mandatory reporting and not know that they need to confirm confidentiality). Provide options who are not reporters. For example, faculty might want to list their mandatory reporter status in their email signatures or in their course syllabi.
+
+- See the [Academic Alliance for Survivor Choice in Reporting Policies](http://alliancesurvivorchoice.org/) for more information and resources related to mandatory or compelled reporting
+
+
+### Support independent advocates or “guides” to help victims through reporting processes
+
+- Reporting processes can be confusing or even harmful. A knowledgeable guide can help victims set expectations and get what they need from the process.
+- See the doula metaphor from this Twitter [thread](https://twitter.com/syardi/status/1397244770213416962) by Sarita Schoenebeck
+- Make sure these people are reliable (not law student volunteers), independent (not as helpful if they are employed by the university), and not mandatory reporters.
