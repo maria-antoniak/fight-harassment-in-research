@@ -33,3 +33,10 @@ This is a document written by graduate students for everyone involved in academi
 - When people have stable financial support (salary, healthcare, not waiting on reimbursements, etc.), they also have more power to make their own decisions.
     - [A Story of a F*** Off Fund](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) by Paulette Perhach
     - [The Joy of F***-You Money](https://thedeepdish.org/fuck-you-money/) by Richard Meadows
+- Annual reviews of research advisors by graduate students.
+    - Professors are reviewed for teaching but not typically not advising—we should add review processes that are more frequent and open to more students. 
+        - Currently, the only review for advising is for tenure/promotion review, which only happens twice and only with a select number of invited student reviews.
+        - Students often have no outlet for feedback (e.g., a student might know something about another faculty member, not their advisor, but have no formal way to make this knowledge available to promotion/hiring/review committees).
+    - When evaluating tenure, solicit more letters from students who aren’t direct-reports of the professor up for tenure, particularly including students who previously reported to the professor.
+    - Put transparent, reliable protections in place for students who are sharing feedback such that they can be protected from persecution for their comments about a faculty member
+
