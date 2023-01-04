@@ -3,6 +3,8 @@
 
 This is a document written by graduate students for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
+<br><br>
+
 [Contexual Notes](#contextual-notes)  
 [Recommendations](#recommendations)  
 [Reflections & Open Questions](#reflections)  
