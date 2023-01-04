@@ -128,3 +128,22 @@ This is a document written by graduate students for everyone involved in academi
 - Reporting processes can be confusing or even harmful. A knowledgeable guide can help victims set expectations and get what they need from the process.
 - See the doula metaphor from this Twitter [thread](https://twitter.com/syardi/status/1397244770213416962) by Sarita Schoenebeck
 - Make sure these people are reliable (not law student volunteers), independent (not as helpful if they are employed by the university), and not mandatory reporters.
+
+
+### Prepare for conferences, workshops, social and networking events
+
+- Prepare students: explain code of conduct, tell them what is inappropriate, connect them with senior students who can guide them, remind them that they do not need to drink/attend every social event if they do not want to.
+
+- Have an enforceable Code of Conduct (see below).
+
+- Do not pressure or force students to share hotel rooms. 
+
+- Carefully decide whether and how to serve alcohol.
+    - Many perspectives and pros and cons in this Twitter [thread](https://twitter.com/cfiesler/status/1400101920161910786) and summarized [here](https://docs.google.com/document/d/11J7Su73VRKr_rooM-F4pJjB9ZdGobWfLtc0a4cdhk9Y/edit?usp=sharing) by Casey Fiesler
+    - Alcohol can be difficult at work events for many reasons, including gender discrimination (assuming pregnancy when not drinking), religious discrimination, health discrimination (alcoholism and other conditions).
+    - Arrange alternative activities that don’t involve alcohol (museum trips; exercise groups; academic interest brown-bags; non-alcoholic food and drinks)
+    - If you decide to serve alcohol:
+        - Also serve alternatives of equal quality (cost, taste)
+        - Use drink tickets
+        - Consider requiring people to pay for their own drinks
+
