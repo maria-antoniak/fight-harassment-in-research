@@ -3,6 +3,7 @@
 
 This is a document written by graduate students for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
+<br><br>
 
 ## CONTEXTUAL NOTES
 
@@ -13,7 +14,7 @@ This is a document written by graduate students for everyone involved in academi
 - This document uses the term “victim” throughout, but different people might prefer “victim” or “survivor” depending on the recency of the experience, the framing of the discussion, and other factors. See here for a brief discussion of these terms.
 - **Additions and edits are welcome and necessary!** Please feel free to make pull requests and/or contact us be email.
 
-
+<br><br>
 
 ## RECOMMENDATIONS
 
@@ -260,10 +261,46 @@ This is a document written by graduate students for everyone involved in academi
 - Listen without judgment and depending on the situation, perhaps without offering advice or solutions. Be a witness and believe their story. 
 Guard the victim from their harasser. If you are at an event where both are present, stick with the victim. Never force the victim and harasser into conversation or interaction, no matter how mundane or innocent it may seem to you or how much time has passed. 
 
+<br><br>
 
-### REFLECTIONS & OPEN QUESTIONS
+## REFLECTIONS & OPEN QUESTIONS
 
 - It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They hurt our research and scientific advances in so many ways, in addition to all the human costs of their harassment and abuse. 
 
 - Related: Gaslighting from universities and departments compounds this wasted energy. Institutions with power can help or hurt; anyone with power should actively consider which they are doing. 
+
+<br><br>
+
+## BACKGROUND
+
+- Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal by Nicole Bedera
+- Race, Gender, and Sexual Harassment by Kimberlé W. Crenshaw
+- Down Girl: The Logic of Misogyny by Kate Manne
+- The Real Reason Women Quit Tech (and How to Address It) by Rachel Thomas
+- Feature, Not A Bug by Mar Hicks
+- Harassers are nice to me, and probably to you by Sarah Milstein
+- How Diversity Training Hurts Diversity by Rachel Thomas
+- Allies’ Guide (Callisto)
+- Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer
+- In survivors’ words: How colleges should better respond to sexual misconduct
+- How University Title IX Offices Fail Survivors (“I chose certainty of safety over the possibility of justice.”)
+- The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014 by Celene Reynolds
+
+<br><br>
+
+## RESEARCHERS TO FOLLOW
+
+These are researchers focused on sexual harassment in academia whose work we recommend. They were not involved in the creation of this document.
+
+- [Dr. Nicole Bedera](https://twitter.com/NBedera)
+- [Dr. Celene Reynolds](https://mobile.twitter.com/celenereynolds)
+- [Dr. Kate Clancy](https://twitter.com/KateClancy)
+
+<br><br>
+
+## AUTHORSHIP
+
+This document was written by Maria Antoniak and Alexa VanHattum, with significant input from other graduate students and faculty from Cornell and other universities. 
+
+**Positionality:** This is all written from the perspective of graduate student researchers in Information Science and Computer Science at a North American university, as cis heterosexual white women with a lot of privilege. This document is very much a draft written by non-experts. We don’t research sexual harassment, though we’ve thought about it a lot, read about it a lot, and talked about it a lot with victims and allies. We welcome corrections, additions, and reframings.
 
