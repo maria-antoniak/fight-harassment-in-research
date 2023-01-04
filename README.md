@@ -92,3 +92,23 @@ This is a document written by graduate students for everyone involved in academi
 - Consider the framing, timing, and required audience for trainings. 
     - Requiring sexual harassment training for everyone can be upsetting to victims, who can feel gaslit by these trainings after negative experiences seeking protection or recourse from the same institutions giving the training. 
     - One option (e.g. used at the University of Washington) is to provide an opt-out for most of the modules of the training for anyone who emails asking for accommodations (no explanation necessary, but you do have to make the extra effort to email Title IX).
+
+
+### Foster a talkative and transparent culture
+
+- Siloes, silence, and secrets allow harassers to thrive. They often are very skilled at isolating their victims and portraying themselves differently towards different people.
+
+- Create spaces for people to talk and feel safe comparing notes.
+    - General spaces (seminars, colloquium, reading groups) to build community and cross-lab connections.
+    - Focused spaces for minoritized groups to talk to each other. Relying on whisper networks can be harmful (since you have to be a member of the network to benefit) but they can also be powerful (connect people with similar experiences of the same person so that they can identify patterns and build a combined case).
+    - Educating spaces for allies to learn and prepare to protect others.
+    - Physical spaces that foster interactions between different groups (private meeting rooms, community lunch rooms and gathering spaces, comfortable offices).
+
+- Because of graduation timelines, cohorts of PhD students have to relearn much of the info in this document; master’s students have even shorter timespans and are thus even more vulnerable. One way to combat this is to create and support groups that pass down learnings from one cohort to the next. It can also be a good reason for such groups to have faculty or outside (e.g., lawyer) liaisons who persist beyond PhD timelines.
+
+- Cultivate a culture of respect instead of a culture that prizes aggression and rudeness, or that forces people to endure a “gauntlet of abuse” before being accepted into the community. 
+    - [Use science to stop sexual harassment in higher education](https://www.pnas.org/doi/full/10.1073/pnas.2016164117) by Kathryn B. H. Clancy et al.
+
+- In general: normalize calling people out immediately. Foster the sense that “we’re a team that needs to keep each other safe and that means calling each other out.” We all make mistakes sometimes, and calling each other out also means accepting each other’s fallibility.
+    - [Community Agreements from the Intergroup Dialog Project](https://idp.cornell.edu/idp-resources/idp-resource-community-agreements/) at Cornell University
+    - [Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246) from Harvard University DEI
