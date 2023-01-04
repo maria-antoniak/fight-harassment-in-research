@@ -226,3 +226,44 @@ This is a document written by graduate students for everyone involved in academi
 
 - Speaking up or calling people out can be scary. It takes practice! Consider taking bystander training to prepare yourself.
 
+
+### For victims: If you have been harassed or assaulted
+- There are no right answers here, and there are costs and benefits to each path forward.
+
+- Prioritize your health and safety. Your survival is a triumph in itself.
+
+- Find allies, both powerful (professors) and supportive (other students who have gone through similar experiences). Allies who are independent from your institution can be particularly valuable (e.g., you might have a local advocacy center not affiliated with your institution).
+
+- Carefully research (or ask your allies to help you carefully research) your reporting options. Each option has costs and benefits. 
+
+- Always ask about confidentiality before sharing your story. Many academic resources are not confidential and may include mandatory reporting.
+
+- Document everything. Record everything, if possible. Write things down in a dated journal. Tell other people you trust (if safe) so that you have witnesses. Screenshot/save digital communication. Try and get communication with departments/people in power in writing. This can help you both make your case to any arbitrator and can validate you later, if you are gaslit or begin to doubt your own experiences..
+
+- Proceed slowly and cautiously with all reporting processes (e.g., Title IX, HR). Consider going through an official reporting process (e.g., Title IX) only if you have the energy and strength for a fight. The advantage is that there will at least be some kind of official report and evidence, removing deniability for the university if more problems happen. But there are many downsides (see above). Importantly, your harasser might have access to anything you say.
+
+- Other options often include: community groups (e.g., women’s resource centers, student organizations), community and university police, going public (Twitter, news outlets) with your accusations or asking someone with more power to relay your accusations publicly.
+
+- Unfortunately, the process of seeking support can itself take a toll on your mental health. Don’t discount this. Lean on your support network. Seek mental health support or ask your supporters to help you find mental health support.
+
+
+### For allies: If someone you know has been harassed or assaulted 
+
+- There are no right answers here, and there are costs and benefits to each path forward.
+
+- Center the victims and what they tell you they need. Do not do anything without the victim’s explicit permission. Here is a great [guide](https://static1.squarespace.com/static/5ff5d891409193661a0718c0/t/6143c3c598215b66462b087c/1631830987649/Callisto_AlliesGuide.pdf) to being an ally.
+
+- Offer to accompany them to appointments and meetings as a witness and support person.
+
+- Help them through the bureaucratic process, which can be exhausting and overwhelming. Help them research their options, identify powerful allies, navigate Title IX and other systems, organize documents, help them navigate the healthcare system to receive mental health support.
+
+- Listen without judgment and depending on the situation, perhaps without offering advice or solutions. Be a witness and believe their story. 
+Guard the victim from their harasser. If you are at an event where both are present, stick with the victim. Never force the victim and harasser into conversation or interaction, no matter how mundane or innocent it may seem to you or how much time has passed. 
+
+
+### REFLECTIONS & OPEN QUESTIONS
+
+- It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They hurt our research and scientific advances in so many ways, in addition to all the human costs of their harassment and abuse. 
+
+- Related: Gaslighting from universities and departments compounds this wasted energy. Institutions with power can help or hurt; anyone with power should actively consider which they are doing. 
+
