@@ -147,3 +147,20 @@ This is a document written by graduate students for everyone involved in academi
         - Use drink tickets
         - Consider requiring people to pay for their own drinks
 
+
+### Don’t trust Title IX (or similar HR or internal reporting processes)
+
+- Understand the [history of Title IX](https://en.wikipedia.org/wiki/Title_IX); it’s a bureaucratic, legalistic structure from a time when students were desperate for any protection.
+    - [The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014](https://academic.oup.com/socpro/article/66/2/245/4956096?guestAccessKey=fd2ec10e-2cc2-4d5f-b7d8-cbf0d6f4619e) by Celene Reynolds
+
+- Understand that Title IX is more likely to hurt than help victims
+    - Examples and sources:
+        - [Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer](https://www.usatoday.com/in-depth/news/investigations/2022/11/16/title-ix-campus-rape-colleges-sexual-misconduct-expel-suspend/7938853001/)
+        - [In survivors’ words: How colleges should better respond to sexual misconduct](https://projects.seattletimes.com/2022/sexual-misconduct-title-ix-washington-college-survivors-words/)
+        - [How University Title IX Offices Fail Survivors](https://www.thenation.com/article/society/title-ix-anniversary-reform-protests-princeton-university/) (“*I chose certainty of safety over the possibility of justice.*”)
+
+- Understand that all such structures are built to protect the university as a money-making institution, not the victims
+
+- Request copies of all transcripts and records. Know that harassers might also have access to all transcripts and records.
+
+- It can still sometimes be useful to go to Title IX, but carefully weigh the pros and cons and *take an advocate or lawyer with you* (ideally a lawyer, but at the very least, take a supportive, powerful ally like a professor, who can witness everything and if nothing else, validate your experience). As an ally, offer to act as a witness or “support person” or help identify such a person. As a “support person,” you probably won’t be able to talk during the meetings, but you can still offer important emotional support to the victim.
