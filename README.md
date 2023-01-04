@@ -59,5 +59,11 @@ This is a document written by graduate students for everyone involved in academi
     - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
 
 
+### Offer evidence-based training sessions
+
+- There is evidence that trainings that focus on feminist empowerment (“Flip the Script”) can reduce rates of sexual violence and reduce self-blame in those who experience sexual assault.
+    - [Research on "Flip the Script"](https://charlenesenn.ca/research/) by Dr. Charlene Y. Senn and Dr. Sarah M. Peitzmeier
+    - This Twitter [thread](https://twitter.com/NBedera/status/1217893354991575040) by Nicole Bedera
+    - *Note: Yes, it’s unfortunate that we have to train victims to protect themselves rather than train harassers to stop harassing, but this training does seem to be effective.*
 
 
