@@ -164,3 +164,41 @@ This is a document written by graduate students for everyone involved in academi
 - Request copies of all transcripts and records. Know that harassers might also have access to all transcripts and records.
 
 - It can still sometimes be useful to go to Title IX, but carefully weigh the pros and cons and *take an advocate or lawyer with you* (ideally a lawyer, but at the very least, take a supportive, powerful ally like a professor, who can witness everything and if nothing else, validate your experience). As an ally, offer to act as a witness or “support person” or help identify such a person. As a “support person,” you probably won’t be able to talk during the meetings, but you can still offer important emotional support to the victim.
+
+
+### In whatever space (your home department, conferences, etc.) remove plausible deniability and make bad behavior clear and identifiable
+
+- Have an enforceable Code of Conduct
+
+- Dating is fine! No one is trying to outlaw dating between people who don’t have power over each other! What’s not ok is: asking out every single person in a space; asking the same person out repeatedly; touching without affirmative consent (this includes hugs and touching shoulders/backs/arms); not responding to complaints by changing behavior; etc.
+
+- Example Codes of Conduct:
+    - [UIUC CS Values & Code of Conduct](https://cs.illinois.edu/about/values)
+
+
+### Be careful about “solving” problems by passing them to other labs, departments, advisors, universities
+
+- In cases with a known serial harasser, “passing the harasser” might protect the current victims but provides the harasser with fresh victims who are probably outside the whisper network of the harasser’s previous community. 
+
+- This can perversely help the harasser, whose CV now includes multiple collaborations and affiliations.
+
+- Sometimes you might be left with no other option than passing the harasser (e.g., if Title IX and other processes have failed). In this case, if you can safely do so, warn people in the new community.
+
+- Most importantly: institute policies around hiring, recommendations, etc. that allow for this kind of feedback. Require job applicants to release information from their previous employer about sexual and other misconduct.
+    - See [these recommendations](https://www.aau.edu/aau-principles-preventing-sexual-harassment-academia) from the Association of American Universities.
+    - See [this legislation](https://app.leg.wa.gov/RCW/default.aspx?cite=28B.112.080) in Washington state.
+
+
+### Alternatives to Title IX
+
+- Universities are caught in the bureaucratic trap of Title IX, so official university procedures are unlikely to result in protection or justice. For example, some universities interpret Title IX as preventing individual university departments from having their own enforceable Codes of Conduct that meaningfully address sexual harassment and assault (though other universities may have different interpretations). .
+
+- Conferences are not bound by Title IX! Conferences can have their own Codes of Conduct and justice/protection systems.
+
+- You can also look for other people with power in the situation, e.g., the harasser’s committee, the chair of the harasser’s department, hiring committees and workshop committees working with the harasser. (Each of these should be approached with caution as no individual can be assumed to be an ally.)
+
+- If you feel safe doing so, speaking publicly (social media, news outlets) is another alternative.
+
+- You can completely circumvent Title IX and your university by going directly to the U.S. Office of Civil Rights.
+    - You can file a complaint [here](https://www.hhs.gov/civil-rights/filing-a-complaint/index.html).
+
