@@ -273,18 +273,18 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 ## BACKGROUND
 
-- Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal by Nicole Bedera
-- Race, Gender, and Sexual Harassment by Kimberlé W. Crenshaw
-- Down Girl: The Logic of Misogyny by Kate Manne
-- The Real Reason Women Quit Tech (and How to Address It) by Rachel Thomas
-- Feature, Not A Bug by Mar Hicks
-- Harassers are nice to me, and probably to you by Sarah Milstein
-- How Diversity Training Hurts Diversity by Rachel Thomas
-- Allies’ Guide (Callisto)
-- Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer
-- In survivors’ words: How colleges should better respond to sexual misconduct
-- How University Title IX Offices Fail Survivors (“I chose certainty of safety over the possibility of justice.”)
-- The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014 by Celene Reynolds
+- [Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal](https://journals.sagepub.com/doi/10.1177/0092055X211022471) by Nicole Bedera
+- [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
+- [Down Girl: The Logic of Misogyny](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190604981.001.0001/oso-9780190604981) by Kate Manne
+- [The Real Reason Women Quit Tech (and How to Address It)](https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd) by Rachel Thomas
+- [Feature, Not A Bug](http://www.technologystories.org/wp-content/uploads/2017/12/Hicks_Feature-Not-a-Bug.pdf) by Mar Hicks
+- [Harassers are nice to me, and probably to you](https://leaddev.com/culture-engagement-motivation/harassers-are-nice-me-and-probably-you) by Sarah Milstein
+- [How Diversity Training Hurts Diversity](https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481) by Rachel Thomas
+- [Allies’ Guide](https://static1.squarespace.com/static/5ff5d891409193661a0718c0/t/6143c3c598215b66462b087c/1631830987649/Callisto_AlliesGuide.pdf) (Callisto)
+- [Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer](https://www.usatoday.com/in-depth/news/investigations/2022/11/16/title-ix-campus-rape-colleges-sexual-misconduct-expel-suspend/7938853001/)
+- [In survivors’ words: How colleges should better respond to sexual misconduct](https://projects.seattletimes.com/2022/sexual-misconduct-title-ix-washington-college-survivors-words/)
+- [How University Title IX Offices Fail Survivors](https://www.thenation.com/article/society/title-ix-anniversary-reform-protests-princeton-university/)
+- [The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014](https://academic.oup.com/socpro/article/66/2/245/4956096?guestAccessKey=fd2ec10e-2cc2-4d5f-b7d8-cbf0d6f4619e) by Celene Reynolds
 
 <br><br>
 
