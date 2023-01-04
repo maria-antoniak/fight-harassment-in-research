@@ -5,12 +5,14 @@ This is a document written by graduate students for everyone involved in academi
 
 <br><br>
 
-[Contexual Notes](#contextual-notes)  
-[Recommendations](#recommendations)  
-[Reflections & Open Questions](#reflections)  
-[Background](#background)  
-[Researchers to Follow](#researchers)  
-[Authorship](#authorship)  
+## CONTENTS
+
+- [Contexual Notes](#contextual-notes)  
+- [Recommendations](#recommendations)  
+- [Reflections & Open Questions](#reflections)  
+- [Background](#background)  
+- [Researchers to Follow](#researchers)  
+- [Authorship](#authorship)  
 
 
 <br><br>
