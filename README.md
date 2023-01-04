@@ -39,4 +39,25 @@ This is a document written by graduate students for everyone involved in academi
         - Students often have no outlet for feedback (e.g., a student might know something about another faculty member, not their advisor, but have no formal way to make this knowledge available to promotion/hiring/review committees).
     - When evaluating tenure, solicit more letters from students who aren’t direct-reports of the professor up for tenure, particularly including students who previously reported to the professor.
     - Put transparent, reliable protections in place for students who are sharing feedback such that they can be protected from persecution for their comments about a faculty member
+- Hold exit interviews with leaving students (graduating, “mastering out”, or otherwise); these are standard in industry.
+- Maintain records on student retention rates per professor.
+    - There is some nuance here, since sometimes the safer mentor is the one who supports a student leaving rather than coercing them to stay and continue producing work for the mentor. But someone should be noticing whether there are consistent patterns related to specific advisors.
+    - [Framework for Accountability in Academic Research and Mentoring](https://www.cmu.edu/stugov/gsa/Blog/faarm.html)
+- Provide transitional funding for switching advisors and escaping unhealthy environments.
+    - This funding can make it possible for students to finish their degree, who otherwise would have dropped out of their PhD programs.
+    - Examples
+        - [Computing Connections Fellowship](https://computingconnections.org/) (this is a wonderful example!)
+        - [UCSD](https://jacobsschool.ucsd.edu/PhD-Transitional-Support)
+        - [Examples of multiple institutions providing transitional funding](https://twitter.com/sbarolo/status/1578405469558816769)
+- Make switching advisors easier, especially for international students.
+    - Possible improvements include: giving students transitional funding (see above); have faculty members beyond the DGS who can talk through advisor switches, maybe per-area; keep data on whether certain advisors have students frequently quit/leave their group
+    - Make resources transparent and easy to find; include info about switching advisors available early on (e.g., in orientation)
+    - Consider making department requirements more fluid (committee chair and members can be from other departments). For students studying less common topics (often the most vulnerable), there simply may not be someone in the department who fits well enough to be a chair.
+- Formally include diversity and inclusion as a factor in hiring and promotion, on an equal footing to other metrics. You might have to fight for this (and there are open questions about how to enforce this once implemented), but it can be done!
+- Recognize how intersecting identities (e.g., race, disability, gender) can make some people more vulnerable to harassment and less likely to be believed when they seek help. 
+    - [How Title IX has failed to protect survivors of color](https://www.insider.com/title-ix-discrimination-sexual-assault-diversity-gender-bias-2022-6)
+    - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
+
+
+
 
