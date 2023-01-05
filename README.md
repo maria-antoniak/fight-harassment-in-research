@@ -277,7 +277,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 ## REFLECTIONS & OPEN QUESTIONS <a name="reflections"></a>
 
-- It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They hurt our research and scientific advances in so many ways, in addition to all the human costs of their harassment and abuse. 
+- It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They indirectly hurt our research and scientific advances in so many ways, in addition to all the direct costs of their harassment and abuse. 
 
 - Related: Gaslighting from universities and departments compounds this wasted energy. Institutions with power can help or hurt; anyone with power should actively consider which they are doing. 
 
