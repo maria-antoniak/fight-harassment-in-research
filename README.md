@@ -43,6 +43,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - Beware the [“missing stair”](https://en.wikipedia.org/wiki/Missing_stair) — ”a person within a social group who many people know is untrustworthy or otherwise has to be ‘managed’, but whom the group chooses to work around, by trying to quietly warn others of their behavior, rather than deal with them and their behavior openly.” The metaphor of the broken staircase emphasizes the absurdity of creating elaborate workarounds for the “missing stair” rather than directly “fixing the staircase.”
 
+<br>
 
 ### Give more power to people who are currently lacking power
 
@@ -83,6 +84,7 @@ This is a document written by graduate students for everyone involved in academi
     - [How Title IX has failed to protect survivors of color](https://www.insider.com/title-ix-discrimination-sexual-assault-diversity-gender-bias-2022-6)
     - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
 
+<br>
 
 ### Offer evidence-based training sessions
 
@@ -106,6 +108,7 @@ This is a document written by graduate students for everyone involved in academi
     - Requiring sexual harassment training for everyone can be upsetting to victims, who can feel gaslit by these trainings after negative experiences seeking protection or recourse from the same institutions giving the training. 
     - One option (e.g. used at the University of Washington) is to provide an opt-out for most of the modules of the training for anyone who emails asking for accommodations (no explanation necessary, but you do have to make the extra effort to email Title IX).
 
+<br>
 
 ### Foster a talkative and transparent culture
 
@@ -126,6 +129,7 @@ This is a document written by graduate students for everyone involved in academi
     - [Community Agreements from the Intergroup Dialog Project](https://idp.cornell.edu/idp-resources/idp-resource-community-agreements/) at Cornell University
     - [Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246) from Harvard University DEI
 
+<br>
 
 ### Get rid of compelled reporting (for adult victims)
 
@@ -135,6 +139,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - See the [Academic Alliance for Survivor Choice in Reporting Policies](http://alliancesurvivorchoice.org/) for more information and resources related to mandatory or compelled reporting
 
+<br>
 
 ### Support independent advocates or “guides” to help victims through reporting processes
 
@@ -142,6 +147,7 @@ This is a document written by graduate students for everyone involved in academi
 - See the doula metaphor from this Twitter [thread](https://twitter.com/syardi/status/1397244770213416962) by Sarita Schoenebeck
 - Make sure these people are reliable (not law student volunteers), independent (not as helpful if they are employed by the university), and not mandatory reporters.
 
+<br>
 
 ### Prepare for conferences, workshops, social and networking events
 
@@ -160,6 +166,7 @@ This is a document written by graduate students for everyone involved in academi
         - Use drink tickets
         - Consider requiring people to pay for their own drinks
 
+<br>
 
 ### Don’t trust Title IX (or similar HR or internal reporting processes)
 
@@ -178,6 +185,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - It can still sometimes be useful to go to Title IX, but carefully weigh the pros and cons and *take an advocate or lawyer with you* (ideally a lawyer, but at the very least, take a supportive, powerful ally like a professor, who can witness everything and if nothing else, validate your experience). As an ally, offer to act as a witness or “support person” or help identify such a person. As a “support person,” you probably won’t be able to talk during the meetings, but you can still offer important emotional support to the victim.
 
+<br>
 
 ### In whatever space (your home department, conferences, etc.) remove plausible deniability and make bad behavior clear and identifiable
 
@@ -188,6 +196,7 @@ This is a document written by graduate students for everyone involved in academi
 - Example Codes of Conduct:
     - [UIUC CS Values & Code of Conduct](https://cs.illinois.edu/about/values)
 
+<br>
 
 ### Be careful about “solving” problems by passing them to other labs, departments, advisors, universities
 
@@ -201,6 +210,7 @@ This is a document written by graduate students for everyone involved in academi
     - See [these recommendations](https://www.aau.edu/aau-principles-preventing-sexual-harassment-academia) from the Association of American Universities.
     - See [this legislation](https://app.leg.wa.gov/RCW/default.aspx?cite=28B.112.080) in Washington state.
 
+<br>
 
 ### Alternatives to Title IX
 
@@ -215,6 +225,7 @@ This is a document written by graduate students for everyone involved in academi
 - You can completely circumvent Title IX and your university by going directly to the U.S. Office of Civil Rights.
     - You can file a complaint [here](https://www.hhs.gov/civil-rights/filing-a-complaint/index.html).
 
+<br>
 
 ### Personal actions if you have power (e.g., tenured professor)
 
@@ -239,6 +250,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - Speaking up or calling people out can be scary. It takes practice! Consider taking bystander training to prepare yourself.
 
+<br>
 
 ### For victims: If you have been harassed or assaulted
 - There are no right answers here, and there are costs and benefits to each path forward.
@@ -259,6 +271,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - Unfortunately, the process of seeking support can itself take a toll on your mental health. Don’t discount this. Lean on your support network. Seek mental health support or ask your supporters to help you find mental health support.
 
+<br>
 
 ### For allies: If someone you know has been harassed or assaulted 
 
