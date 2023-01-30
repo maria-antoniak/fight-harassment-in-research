@@ -1,5 +1,6 @@
 # Practical Actions to Fight Sexual Harassment in Academic Research
 
+<br><br>
 
 This is a document written by graduate students[^1] for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
