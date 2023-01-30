@@ -293,9 +293,15 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 ## REFLECTIONS & OPEN QUESTIONS <a name="reflections"></a>
 
+- Are there other evidence-based training programs that can help keep researchers safe?
+
+- How can students collaborate across universities to improve research culture? How can students collaborate with lawyers, activists, and other people external to academia?
+
+- It can be very hard to implement the changes recommended in this document, taking time away from other research activities. Efforts to improve safety should be tangibly rewarded by managers and review committees.
+
 - It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They indirectly hurt our research and scientific advances in so many ways, in addition to all the direct costs of their harassment and abuse. 
 
-- Related: Gaslighting from universities and departments compounds this wasted energy. Institutions with power can help or hurt; anyone with power should actively consider which they are doing. 
+- Related: Gaslighting from universities and departments compounds this wasted energy. Institutions with power can help or hurt; anyone with power should consider which they are doing. 
 
 <br><br>
 
