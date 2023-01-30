@@ -4,7 +4,7 @@
 
 This is a document written by graduate students[^1] for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
 
-[^1]: Maria Antoniak and Alexa VanHattum, beginning May of 2022. We were frustrated by the lack of tangible actions after several prominent cases of harassment and assult within our fields of computing research. 
+[^1]: Maria Antoniak and Alexa VanHattum, beginning May of 2021, with significant input from other graduate students and faculty from Cornell and other universities. This document is written from the perspective of graduate student researchers in Information Science and Computer Science at a North American university, as cis heterosexual white women with a lot of privilege. This document is very much a draft written by non-experts. We don’t research sexual harassment, though we’ve thought about it a lot, read about it a lot, and talked about it a lot with victims and allies. We welcome corrections, additions, and reframings.
 
 <br><br>
 
@@ -15,7 +15,6 @@ This is a document written by graduate students[^1] for everyone involved in aca
 - [Reflections & Open Questions](#reflections)  
 - [Background](#background)  
 - [Researchers to Follow](#researchers)  
-- [Authorship](#authorship)  
 
 
 <br><br>
@@ -23,6 +22,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 ## CONTEXTUAL NOTES <a name="contextual-notes"></a>
 
 - This document should be understood as a series of “patches” rather than a single overarching solution to sexual harassment. There are immediate steps that we can take as a community to help people, even if the larger solutions are still unclear.
+- We created this document in response to  several prominent cases of harassment and assult within our fields of computing research, frustrated by the lack of tangible actions. 
 - This document is not about other gender-based struggles in tech and academia for equal pay, promotions, hiring, etc. 
 - This document is not trying to convince anyone who doesn’t believe that sexual harassment is a problem. This document is targeted towards sympathetic allies. Likewise, none of our suggestions are aimed at perpetrators because we don’t know of any research that this would work (happy to be proven wrong, please let us know if you have evidence).
 - This document is not focused on undergraduate students (e.g., it doesn’t discuss important aspects of the undergraduate experience like fraternities, dorms, and underage drinking).
@@ -328,10 +328,4 @@ These are researchers focused on sexual harassment in academia whose work we rec
 - [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
 
 <br><br>
-
-## AUTHORSHIP <a name="authorship"></a>
-
-This document was written by Maria Antoniak and Alexa VanHattum, with significant input from other graduate students and faculty from Cornell and other universities. 
-
-**Positionality:** This is all written from the perspective of graduate student researchers in Information Science and Computer Science at a North American university, as cis heterosexual white women with a lot of privilege. This document is very much a draft written by non-experts. We don’t research sexual harassment, though we’ve thought about it a lot, read about it a lot, and talked about it a lot with victims and allies. We welcome corrections, additions, and reframings.
 
