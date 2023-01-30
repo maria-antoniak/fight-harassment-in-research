@@ -50,7 +50,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 ### Give more power to people who are currently lacking power
 
-- Privilege can protect people. If there are ways to convey privilege to others, try to do that. Money and decision-making power are easy ways of shifting privilege.
+- Privilege can protect people. If there are ways to convey privilege to others, try to do that. Money and decision-making power are practical ways of shifting privilege.
 
 - When people have stable financial support (salary, healthcare, not waiting on reimbursements, etc.), they also have more power to make their own decisions.
     - [A Story of a F*** Off Fund](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) by Paulette Perhach
