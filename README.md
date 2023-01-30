@@ -109,7 +109,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 - Consider the framing, timing, and required audience for trainings. 
     - Requiring sexual harassment training for everyone can be upsetting to victims, who can feel gaslit by these trainings after negative experiences seeking protection or recourse from the same institutions giving the training. 
-    - One option (e.g. used at the University of Washington) is to provide an opt-out for most of the modules of the training for anyone who emails asking for accommodations (no explanation necessary, but you do have to make the extra effort to email Title IX).
+    - One option (e.g., used at the University of Washington) is to provide an opt-out for most of the modules of the training for anyone who emails asking for accommodations (no explanation necessary, but you do have to make the extra effort to email Title IX).
 
 <br>
 
