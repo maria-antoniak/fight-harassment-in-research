@@ -319,12 +319,12 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 ## RESEARCHERS TO FOLLOW <a name="researchers"></a>
 
-These are researchers focused on sexual harassment in academia whose work we recommend. They were not involved in the creation of this document.
+These are researchers focused on sexual harassment in academia whose work we've learned from. They were not involved in the creation of this document.
 
-- [Dr. Nicole Bedera](https://twitter.com/NBedera)
-- [Dr. Celene Reynolds](https://mobile.twitter.com/celenereynolds)
-- [Dr. Kate Clancy](https://twitter.com/KateClancy)
-- [Dr. Sarah Peitzmeier](https://twitter.com/SarahPeitzmeier)
+- [Dr. Nicole Bedera](https://www.nicolebedera.com/)
+- [Dr. Celene Reynolds](https://campuspress.yale.edu/celenereynolds/)
+- [Dr. Kate Clancy](https://kateclancy.com/)
+- [Dr. Sarah Peitzmeier](https://nursing.umich.edu/faculty-staff/faculty/sarah-m-peitzmeier)
 - [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
 
 <br><br>
