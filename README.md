@@ -1,7 +1,9 @@
 # Practical Actions to Fight Sexual Harassment in Academic Research
 
 
-This is a document written by graduate students for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
+This is a document written by graduate students[^1] for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment in academic research.
+
+[^1]: Maria Antoniak and Alexa VanHattum, beginning May of 2022. We were frustrated by the lack of tangible actions after several prominent cases of harassment and assult within our fields of computing research. 
 
 <br><br>
 
@@ -114,7 +116,7 @@ This is a document written by graduate students for everyone involved in academi
 
 - Siloes, silence, and secrets allow harassers to thrive. They often are very skilled at isolating their victims and portraying themselves differently towards different people.
 
-- Create spaces for people to talk and feel safe comparing notes.
+- Create spaces for people to talk and feel safe comparing notes:
     - General spaces (seminars, colloquium, reading groups) to build community and cross-lab connections.
     - Focused spaces for minoritized groups to talk to each other. Relying on whisper networks can be harmful (since you have to be a member of the network to benefit) but they can also be powerful (connect people with similar experiences of the same person so that they can identify patterns and build a combined case).
     - Educating spaces for allies to learn and prepare to protect others.
@@ -131,9 +133,9 @@ This is a document written by graduate students for everyone involved in academi
 
 <br>
 
-### Get rid of compelled reporting (for adult victims)
+### Get rid of compelled reporting (for adult victims, in higher education)
 
-- Compelled reporting (where someone reports what a victim has told them, even when the victim asks them not to share) can lead to retaliation, re-traumatizing by the investigation process (see below about TItle IX), and other harms. Respect the agency of the victim.
+- Compelled reporting (where someone reports what a victim has told them, even when the victim asks them not to share) can lead to retaliation, re-traumatizing by the investigation process (see below about Title IX), and other harms. Respect the agency of the victim.
 
 - Mandatory reporting policies, which are common at universities, often require compelled reporting. Until these policies change, you should make explicit who is a mandatory reporter and make explicit that confidentiality matters (as victims might not be aware of the harms that can arise from mandatory reporting and not know that they need to confirm confidentiality). Provide options who are not reporters. For example, faculty might want to list their mandatory reporter status in their email signatures or in their course syllabi.
 
@@ -173,7 +175,7 @@ This is a document written by graduate students for everyone involved in academi
 - Understand the [history of Title IX](https://en.wikipedia.org/wiki/Title_IX); it’s a bureaucratic, legalistic structure from a time when students were desperate for any protection.
     - [The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014](https://academic.oup.com/socpro/article/66/2/245/4956096?guestAccessKey=fd2ec10e-2cc2-4d5f-b7d8-cbf0d6f4619e) by Celene Reynolds
 
-- Understand that Title IX is more likely to hurt than help victims
+- Understand that Title IX can be more likely to hurt than help victims
     - Examples and sources:
         - [Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer](https://www.usatoday.com/in-depth/news/investigations/2022/11/16/title-ix-campus-rape-colleges-sexual-misconduct-expel-suspend/7938853001/)
         - [In survivors’ words: How colleges should better respond to sexual misconduct](https://projects.seattletimes.com/2022/sexual-misconduct-title-ix-washington-college-survivors-words/)
