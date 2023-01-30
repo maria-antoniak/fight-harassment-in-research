@@ -215,6 +215,14 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 <br>
 
+### Be careful about “solving” problems by documenting them
+
+- "Datafication" turns human experiences into data. Data can be useful to make arguments and track improvement, but datafication can also take resources away from solving problems that are already well understood. There's a place for surveys and documentation (e.g., tracking graduation rates, asking students about their comfort in the department), but these should be weighed carefully against other efforts. Don't immediately prioritize demands for evidence that sexual harassment is a problem in research; your energy might be spent more effectively elsewhere.
+    -  [Viral Justice](https://press.princeton.edu/books/hardcover/9780691222882/viral-justice) by Ruja Benjamin
+    -  [Data Feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein
+
+<br>
+
 ### Alternatives to Title IX
 
 - Universities are caught in the bureaucratic trap of Title IX, so official university procedures are unlikely to result in protection or justice. For example, some universities interpret Title IX as preventing individual university departments from having their own enforceable Codes of Conduct that meaningfully address sexual harassment and assault (though other universities may have different interpretations).
