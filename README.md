@@ -22,12 +22,12 @@ This is a document written by graduate students[^1] for everyone involved in aca
 ## CONTEXTUAL NOTES <a name="contextual-notes"></a>
 
 - This document should be understood as a series of “patches” rather than a single overarching solution to sexual harassment. There are immediate steps that we can take as a community to help people, even if the larger solutions are still unclear.
-- We created this document in response to  several prominent cases of harassment and assult within our fields of computing research, frustrated by the lack of tangible actions. 
+- We created this document in response to several prominent cases of harassment and assault within our fields of computing research, frustrated by the lack of tangible actions. 
 - This document is not about other gender-based struggles in tech and academia for equal pay, promotions, hiring, etc. 
-- This document is not trying to convince anyone who doesn’t believe that sexual harassment is a problem. This document is targeted towards sympathetic allies. Likewise, none of our suggestions are aimed at perpetrators because we don’t know of any research that this would work (happy to be proven wrong, please let us know if you have evidence).
+- This document is not trying to convince anyone who doesn’t believe that sexual harassment is a problem. This document is targeted toward sympathetic allies. Likewise, none of our suggestions are aimed at perpetrators because we don’t know of any research that this would work (happy to be proven wrong, please let us know if you have evidence).
 - This document is not focused on undergraduate students (e.g., it doesn’t discuss important aspects of the undergraduate experience like fraternities, dorms, and underage drinking).
 - This document uses the term “victim” throughout, but different people might prefer “victim” or “survivor” depending on the recency of the experience, the framing of the discussion, and other factors. See [here](https://www.rainn.org/articles/key-terms-and-phrases) for a brief discussion of these terms.
-- **Additions and edits are welcome and necessary!** Please feel free to make pull requests and/or contact us be email.
+- **Additions and edits are welcome and necessary!** Please feel free to make pull requests and/or contact us by email.
 
 <br><br>
 
@@ -217,7 +217,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 ### Alternatives to Title IX
 
-- Universities are caught in the bureaucratic trap of Title IX, so official university procedures are unlikely to result in protection or justice. For example, some universities interpret Title IX as preventing individual university departments from having their own enforceable Codes of Conduct that meaningfully address sexual harassment and assault (though other universities may have different interpretations). .
+- Universities are caught in the bureaucratic trap of Title IX, so official university procedures are unlikely to result in protection or justice. For example, some universities interpret Title IX as preventing individual university departments from having their own enforceable Codes of Conduct that meaningfully address sexual harassment and assault (though other universities may have different interpretations).
 
 - Conferences are not bound by Title IX! Conferences can have their own Codes of Conduct and justice/protection systems.
 
@@ -238,8 +238,8 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 - Your name as a researcher carries a ton of weight and respect (even awe for junior students). Use it wisely.
     - For serious cases of harassment or other abuse:
-        - Think very carefully about collaborating with someone you know has harassed, abused, or assaulted others. Think about what this signals to other people in your community who are aware of the perpetrator. Think about this signals to the victims. Think about how those not in the know (e.g., more junior students) might interpret your association as an endorsement, leading to fresh victims for the perpetrator.
-        - Similarly, think carefully before promoting their work (e.g., on social media or via emails) or sharing or endorsing their their hiring advertisements.
+        - Think very carefully about collaborating with someone you know has harassed, abused, or assaulted others. Think about what this signals to other people in your community who are aware of the perpetrator. Think about what this signals to the victims. Think about how those not in the know (e.g., more junior students) might interpret your association as an endorsement, leading to fresh victims for the perpetrator.
+        - Similarly, think carefully before promoting their work (e.g., on social media or via emails) or sharing or endorsing their hiring advertisements.
         - Citing and teaching a harasser’s work can itself carry harms, but not citing or teaching their work can also harm their (possibly junior) coauthors. Consider how to cite and teach while giving context to your audience.
 
 - You might make mistakes. Harassers are often very good at disguising their actions, and they might behave very, very nicely to you and others who aren’t their victims. But at least do some research and ask around, and try to do better going forward.
@@ -266,7 +266,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 - Always ask about confidentiality before sharing your story. Many academic resources are not confidential and may include mandatory reporting.
 
-- Document everything. Record everything, if possible. Write things down in a dated journal. Tell other people you trust (if safe) so that you have witnesses. Screenshot/save digital communication. Try and get communication with departments/people in power in writing. This can help you both make your case to any arbitrator and can validate you later, if you are gaslit or begin to doubt your own experiences..
+- Document everything. Record everything, if possible. Write things down in a dated journal. Tell other people you trust (if safe) so that you have witnesses. Screenshot/save digital communication. Try and get communication with departments/people in power in writing. This can help you both make your case to any arbitrator and can validate you later, if you are gaslit or begin to doubt your own experiences.
 
 - Proceed slowly and cautiously with all reporting processes (e.g., Title IX, HR). Consider going through an official reporting process (e.g., Title IX) only if you have the energy and strength for a fight. The advantage is that there will at least be some kind of official report and evidence, removing deniability for the university if more problems happen. But there are many downsides (see above). Importantly, your harasser might have access to anything you say.
 
