@@ -305,6 +305,8 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 - How can students collaborate across universities to improve research culture? How can students collaborate with lawyers, activists, and other people external to academia?
 
+- This document arose most directly in response to cases of gender-based harassment—how should these actions change based on other aspects of marginalization and identity?
+
 - It can be very hard to implement the changes recommended in this document, taking time away from other research activities. Efforts to improve safety should be tangibly rewarded by managers and review committees.
 
 - It’s awful to consider the collective amount of time and energy wasted on fighting these creeps. They indirectly hurt our research and scientific advances in so many ways, in addition to all the direct costs of their harassment and abuse. 
