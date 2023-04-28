@@ -207,7 +207,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 - This can perversely help the harasser, whose CV now includes multiple collaborations and affiliations.
 
-- Sometimes you might be left with no other option than passing the harasser (e.g., if Title IX and other processes have failed). In this case, if you can safely do so, warn people in the new community.
+- Sometimes, you may witness a case of passing the harasser that you have no power to stop. In this case, if you can safely do so, consider sharing information with people in the new community.
 
 - Most importantly: institute policies around hiring, recommendations, etc. that allow for this kind of feedback. Require job applicants to release information from their previous employer about sexual and other misconduct.
     - See [these recommendations](https://www.aau.edu/aau-principles-preventing-sexual-harassment-academia) from the Association of American Universities.
@@ -278,7 +278,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
 
 - Proceed slowly and cautiously with all reporting processes (e.g., Title IX, HR). Consider going through an official reporting process (e.g., Title IX) only if you have the energy and strength for a fight. The advantage is that there will at least be some kind of official report and evidence, removing deniability for the university if more problems happen. But there are many downsides (see above). Importantly, your harasser might have access to anything you say.
 
-- Other options often include: community groups (e.g., women’s resource centers, student organizations), community and university police, going public (Twitter, news outlets) with your accusations or asking someone with more power to relay your accusations publicly.
+- Other options often include: community groups (e.g., women’s resource centers, student organizations), community and university police, going public (social media, news outlets) with your experience or asking someone with more power to relay your experience publicly.
 
 - Unfortunately, the process of seeking support can itself take a toll on your mental health. Don’t discount this. Lean on your support network. Seek mental health support or ask your supporters to help you find mental health support.
 
