@@ -77,8 +77,8 @@ This is a document written by graduate students[^1] for everyone involved in aca
         - [Examples of multiple institutions providing transitional funding](https://twitter.com/sbarolo/status/1578405469558816769)
 
 - Make switching advisors easier, especially for international students.
-    - Possible improvements include: giving students transitional funding (see above); have faculty members beyond the DGS who can talk through advisor switches, maybe per-area; keep data on whether certain advisors have students frequently quit/leave their group
-    - Make resources transparent and easy to find; include info about switching advisors available early on (e.g., in orientation)
+    - Possible improvements include: giving students transitional funding (see above); have faculty members beyond the Director of Graduate Studies who can talk through advisor switches, maybe per-area; keep data on whether certain advisors have students frequently quit/leave their group
+    - Make resources transparent and easy to find; include info about switching advisors available early on (e.g., in orientation).
     - Consider making department requirements more fluid (committee chair and members can be from other departments). For students studying less common topics (often the most vulnerable), there simply may not be someone in the department who fits well enough to be a chair.
 
 - Formally include diversity and inclusion as a factor in hiring and promotion, on an equal footing to other metrics. You might have to fight for this (and there are open questions about how to enforce this once implemented), but it can be done!
@@ -96,7 +96,7 @@ This is a document written by graduate students[^1] for everyone involved in aca
     - This Twitter [thread](https://twitter.com/NBedera/status/1217893354991575040) by Nicole Bedera
     - *Note: Yes, it’s unfortunate that we have to train victims to protect themselves rather than train harassers to stop harassing, but this training does seem to be effective.*
 
-- Consider the negative effects of trainings on imposter syndrome, teaching women to talk or act like men, implicit bias, etc. If you want to include physical self-defense trainings, be careful to select programs that are evidence-based.
+- Consider the negative effects of trainings on imposter syndrome, teaching people with marginalized gender identities to talk or act like men, implicit bias, etc. If you want to include physical self-defense trainings, be careful to select programs that are evidence-based.
     - [How Diversity Training Hurts Diversity](https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481) by Rachel Thomas
     - This Twitter [thread](https://twitter.com/nbedera/status/1218221038560874497) on physical self-defense trainings by Nicole Bedera
     - [Stop Telling Women They Have Imposter Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by by Ruchika Tulshyan and Jodi-Ann Burey
