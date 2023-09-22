@@ -345,6 +345,7 @@ These are researchers focused on sexual harassment in academia whose work we've 
 - [Dr. Kate Clancy](https://kateclancy.com/)
 - [Dr. Sarah Peitzmeier](https://nursing.umich.edu/faculty-staff/faculty/sarah-m-peitzmeier)
 - [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
+- [Dr. Kate Manne](http://www.katemanne.net/)
 
 <br><br>
 
