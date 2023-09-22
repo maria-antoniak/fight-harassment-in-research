@@ -181,6 +181,8 @@ This is a document written by graduate students [^1] for everyone involved in ac
         - [Title IX: Falling short at 50: Despite men’s rights claims, colleges expel few sexual misconduct offenders while survivors suffer](https://www.usatoday.com/in-depth/news/investigations/2022/11/16/title-ix-campus-rape-colleges-sexual-misconduct-expel-suspend/7938853001/)
         - [In survivors’ words: How colleges should better respond to sexual misconduct](https://projects.seattletimes.com/2022/sexual-misconduct-title-ix-washington-college-survivors-words/)
         - [How University Title IX Offices Fail Survivors](https://www.thenation.com/article/society/title-ix-anniversary-reform-protests-princeton-university/) (“*I chose certainty of safety over the possibility of justice.*”)
+        - [I Can Protect His Future, but She Can’t Be Helped: Himpathy and Hysteria in Administrator Rationalizations of Institutional Betrayal
+](https://www.tandfonline.com/doi/abs/10.1080/00221546.2023.2195771?journalCode=uhej20)
 
 - Understand that all such structures are built to protect the university as a money-making institution, not the victims
 
