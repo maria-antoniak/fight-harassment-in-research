@@ -272,6 +272,8 @@ We welcome corrections, additions, and reframings. Please make a pull request or
 
 - Speaking up or calling people out can be scary. It takes practice! Consider taking bystander training to prepare yourself.
 
+- See above about mandatory reporting and how you can protect your students while being a mandatory reporter. All U.S. faculty and staff are now mandatory reporters.
+
 <br>
 
 ### For victims: If you have been harassed or assaulted
