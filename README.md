@@ -203,7 +203,7 @@ This is a document written by graduate students [^1] for everyone involved in ac
 
 - Have an enforceable Code of Conduct
 
-- Dating is fine! No one is trying to outlaw dating between people who don’t have power over each other! What’s not ok is: asking out every single person in a space; asking the same person out repeatedly; touching without affirmative consent (this includes hugs and touching shoulders/backs/arms); not responding to complaints by changing behavior; etc.
+- Dating is fine! No one is trying to outlaw dating between people who don’t have power over each other! What’s not ok is: dating someone you have power over; asking out every single person in a space; asking the same person out repeatedly; touching without affirmative consent (this includes hugs and touching shoulders/backs/arms); not responding to complaints by changing behavior; etc.
 
 - Example Codes of Conduct:
     - [UIUC CS Values & Code of Conduct](https://cs.illinois.edu/about/values)
