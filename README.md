@@ -136,11 +136,18 @@ This is a document written by graduate students [^1] for everyone involved in ac
 
 ### Get rid of compelled reporting (for adult victims, in higher education)
 
-- Compelled reporting (where someone reports what a victim has told them, even when the victim asks them not to share) can lead to retaliation, re-traumatizing by the investigation process (see below about Title IX), and other harms. Respect the agency of the victim.
+- Compelled reporting (where someone reports what a victim has told them, even when the victim asks them not to share) can lead to retaliation, re-traumatizing by the investigation process (see below about Title IX), and other harms. See [this Twitter thread](https://x.com/NBedera/status/1819779808416391456) and the following resource for further explanation about why compelled reporting is harmful: [Compelled Disclosure: The Problem with "Mandatory Reporting" of Sexual Violence on College Campuses](https://dynamic.uoregon.edu/jjf/disclosure/requiredreporting.html)
 
 - Mandatory reporting policies, which are common at universities, often require compelled reporting. Until these policies change, you should make explicit who is a mandatory reporter and make explicit that confidentiality matters (as victims might not be aware of the harms that can arise from mandatory reporting and not know that they need to confirm confidentiality). Provide options who are not reporters. For example, faculty might want to list their mandatory reporter status in their email signatures or in their course syllabi.
 
-- See the [Academic Alliance for Survivor Choice in Reporting Policies](http://alliancesurvivorchoice.org/) for more information and resources related to mandatory or compelled reporting
+- As of August 2024, all U.S. faculty and staff are mandatory reporters thanks to Biden’s new Title IX regulation.
+
+- See the [Academic Alliance for Survivor Choice in Reporting Policies](http://alliancesurvivorchoice.org/) for more information and resources related to mandatory or compelled reporting.
+
+- Some practical advice from [this Twitter thread by Nicole Badera]() for mandatory reporters:
+    - "If a survivor is asking you for your help reporting, you should initiate a report. Always."
+    - Put a warning statement in your syllabus and on your website. This is a great example of such a statement: [Mandatory Reporting Syllabus Statement](https://www.nicolebedera.com/_files/ugd/c93510_94a11d0cc5994d179f6a4ea500590f40.pdf?index=true)
+    - Prepare for how you would handle reporting a disclosure: "the short answer is to be a 'bad' mandatory reporter. You want to report as little as possible to reduce the likelihood that an investigation can take off without the survivors' consent. Don't pry for details. Don't name a perpetrator. Don't fish for contact information. Ideally, your report should include nothing more than the survivor's name and email. Then, it will be up to them to decide what—if anything—to share with Title IX. Be transparent about the mandatory reporting process. Tell the survivor what you will and will not share. Let them sit alongside you as you report if they want. As much as possible, prioritize their autonomy. Answer their questions. And connect them to a confidential victim advocate. Make sure they know they can have someone in their corner who won’t share everything with Title IX. In today’s Title IX terrain, that might require contacting an off-campus rape crisis center. Don’t forget to validate the survivor. Thank them for sharing their story. Apologize for your school's mandatory reporting policy. Promise them that *you* will prioritize their autonomy, even if their school won't. Let them know about other ways you can help if they need it."
 
 <br>
 
@@ -319,6 +326,8 @@ Guard the victim from their harasser. If you are at an event where both are pres
 
 ## BACKGROUND <a name="background"></a>
 
+- [I Can Protect His Future, but She Can’t Be Helped: Himpathy and Hysteria in Administrator Rationalizations of Institutional Betrayal](https://www.tandfonline.com/doi/abs/10.1080/00221546.2023.2195771) by Nicole Bedera
+- [Compelled Disclosure: The Problem with "Mandatory Reporting" of Sexual Violence on College Campuses](https://dynamic.uoregon.edu/jjf/disclosure/requiredreporting.html) by Jennifer J. Freyd
 - [Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal](https://journals.sagepub.com/doi/10.1177/0092055X211022471) by Nicole Bedera
 - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
 - [Down Girl: The Logic of Misogyny](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190604981.001.0001/oso-9780190604981) by Kate Manne
@@ -332,7 +341,6 @@ Guard the victim from their harasser. If you are at an event where both are pres
 - [How University Title IX Offices Fail Survivors](https://www.thenation.com/article/society/title-ix-anniversary-reform-protests-princeton-university/)
 - [The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014](https://academic.oup.com/socpro/article/66/2/245/4956096?guestAccessKey=fd2ec10e-2cc2-4d5f-b7d8-cbf0d6f4619e) by Celene Reynolds
 - [More than 70 lab heads removed from NIH grants after harassment findings](https://www.science.org/content/article/nih-removed-more-70-lab-heads-grants-after-harassment-complaints)
-- [I Can Protect His Future, but She Can’t Be Helped: Himpathy and Hysteria in Administrator Rationalizations of Institutional Betrayal](https://www.tandfonline.com/doi/abs/10.1080/00221546.2023.2195771) by Nicole Bedera
 
 <br><br>
 
