@@ -4,6 +4,8 @@
 
 This is a document written by graduate students [^1] for everyone involved in academic research. The goal of this document is to identify practical actions that are **accessible now** to fight against sexual harassment and toxicity in academic research.
 
+We welcome corrections, additions, and reframings. Please make a pull request or contact us if you would like to suggest a change.
+
 [^1]: Maria Antoniak and Alexa VanHattum, beginning May of 2021, with significant input from other graduate students and faculty from Cornell and other universities. This document is written from the perspective of graduate student researchers in Information Science and Computer Science at a North American university, as white women with a lot of privilege. This document is very much a draft written by non-experts. We don’t research sexual harassment, though we’ve thought about it a lot, read about it a lot, and talked about it a lot with victims and allies. We welcome corrections, additions, and reframings.
 
 <br><br>
