@@ -94,6 +94,7 @@ We welcome corrections, additions, and reframings. Please make a pull request or
 ### Skip the training sessions
 
 - In general, workplace sexual harassment trainings don’t work and can actually increase sexual harassment rates. We recommend either providing trainings about available resources for victims or skipping trainings altogether.
+    -  [The promise and peril of sexual harassment programs](https://www.pnas.org/doi/abs/10.1073/pnas.1818477116) by Frank Dobbin and Alexandra Kalev  
 
 - Consider the negative effects of trainings on imposter syndrome, teaching people with marginalized gender identities to talk or act like men, implicit bias, etc.
     - [How Diversity Training Hurts Diversity](https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481) by Rachel Thomas
@@ -328,6 +329,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 ## BACKGROUND <a name="background"></a>
 
 - [I Can Protect His Future, but She Can’t Be Helped: Himpathy and Hysteria in Administrator Rationalizations of Institutional Betrayal](https://www.tandfonline.com/doi/abs/10.1080/00221546.2023.2195771) by Nicole Bedera
+- [The promise and peril of sexual harassment programs](https://www.pnas.org/doi/abs/10.1073/pnas.1818477116) by Frank Dobbin and Alexandra Kalev  
 - [Compelled Disclosure: The Problem with "Mandatory Reporting" of Sexual Violence on College Campuses](https://dynamic.uoregon.edu/jjf/disclosure/requiredreporting.html) by Jennifer J. Freyd
 - [Beyond Trigger Warnings: A Survivor-Centered Approach to Teaching on Sexual Violence and Avoiding Institutional Betrayal](https://journals.sagepub.com/doi/10.1177/0092055X211022471) by Nicole Bedera
 - [Race, Gender, and Sexual Harassment](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=3934&context=faculty_scholarship) by Kimberlé W. Crenshaw
@@ -358,6 +360,7 @@ Guard the victim from their harasser. If you are at an event where both are pres
 These are researchers focused on sexual harassment in academia whose work we've learned from. They were not involved in the creation of this document.
 
 - [Dr. Nicole Bedera](https://www.nicolebedera.com/)
+- [Dr. Kathryn Holland](https://sashlab.unl.edu/)
 - [Dr. Celene Reynolds](https://campuspress.yale.edu/celenereynolds/)
 - [Dr. Kate Clancy](https://kateclancy.com/)
 - [Dr. Sarah Peitzmeier](https://nursing.umich.edu/faculty-staff/faculty/sarah-m-peitzmeier)
