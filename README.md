@@ -91,7 +91,7 @@ We welcome corrections, additions, and reframings. Please make a pull request or
 
 <br>
 
-### Offer evidence-based training sessions
+### Skip the training sessions
 
 - In general, workplace sexual harassment trainings don’t work and can actually increase sexual harassment rates. We recommend either providing trainings about available resources for victims or skipping trainings altogether.
 
