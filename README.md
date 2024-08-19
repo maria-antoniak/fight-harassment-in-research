@@ -83,7 +83,7 @@ We welcome corrections, additions, and reframings. Please make a pull request or
     - Make resources transparent and easy to find; include info about switching advisors available early on (e.g., in orientation).
     - Consider making department requirements more fluid (committee chair and members can be from other departments). For students studying less common topics (often the most vulnerable), there simply may not be someone in the department who fits well enough to be a chair.
 
-- Formally include diversity and inclusion as a factor in hiring and promotion, on an equal footing to other metrics. You might have to fight for this (and there are open questions about how to enforce this once implemented), but it can be done!
+- Formally include diversity and inclusion service as a factor in hiring and promotion, on an equal footing to other metrics. You might have to fight for this (and there are open questions about how to enforce this once implemented), but it can be done!
 
 - Recognize how intersecting identities (e.g., race, disability, gender) can make some people more vulnerable to harassment and less likely to be believed when they seek help. 
     - [How Title IX has failed to protect survivors of color](https://www.insider.com/title-ix-discrimination-sexual-assault-diversity-gender-bias-2022-6)
