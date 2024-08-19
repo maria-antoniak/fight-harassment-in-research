@@ -101,7 +101,7 @@ We welcome corrections, additions, and reframings. Please make a pull request or
     - [Stop Telling Women They Have Imposter Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by by Ruchika Tulshyan and Jodi-Ann Burey
     - [All Career Advice for Women is a Form of Gaslighting](https://qz.com/work/1363399/all-career-advice-for-women-is-a-form-of-gaslighting/) by Ephrat Livni
 
-- Create trainings on what to expect at conferences and what is acceptable and not acceptable behavior. Make sure students know where to report incidents in different scenarios (at conferences, while TAing, at department social events, etc).
+- PIs might want to explain to their students what to expect at conferences and what is acceptable and not acceptable behavior. Make sure students know where to report incidents in different scenarios (at conferences, while TAing, at department social events, etc).
 
 - Fund and promote bystander training so that harmful behavior is immediately called out.
     - Here’s one nice method to employ as a bystander: [“We don’t do that here.”](https://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html )
