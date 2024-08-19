@@ -366,6 +366,7 @@ These are researchers focused on sexual harassment in academia whose work we've 
 - [Dr. Sarah Peitzmeier](https://nursing.umich.edu/faculty-staff/faculty/sarah-m-peitzmeier)
 - [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
 - [Dr. Kate Manne](http://www.katemanne.net/)
+- [Dr. Frank Dobbin](https://sociology.fas.harvard.edu/people/frank-dobbin)
 
 <br><br>
 
