@@ -93,12 +93,9 @@ We welcome corrections, additions, and reframings. Please make a pull request or
 
 ### Offer evidence-based training sessions
 
-- There is evidence that trainings that focus on feminist empowerment (“Flip the Script”) can reduce rates of sexual violence and reduce self-blame in those who experience sexual assault.
-    - [Research on "Flip the Script"](https://charlenesenn.ca/research/) by Charlene Y. Senn and Sarah M. Peitzmeier
-    - This Twitter [thread](https://twitter.com/NBedera/status/1217893354991575040) by Nicole Bedera
-    - *Note: Yes, it’s unfortunate that we have to train victims to protect themselves rather than train harassers to stop harassing, but this training does seem to be effective.*
+- In general, workplace sexual harassment trainings don’t work and can actually increase sexual harassment rates. We recommend either providing trainings about available resources for victims or skipping trainings altogether.
 
-- Consider the negative effects of trainings on imposter syndrome, teaching people with marginalized gender identities to talk or act like men, implicit bias, etc. If you want to include physical self-defense trainings, be careful to select programs that are evidence-based.
+- Consider the negative effects of trainings on imposter syndrome, teaching people with marginalized gender identities to talk or act like men, implicit bias, etc.
     - [How Diversity Training Hurts Diversity](https://medium.com/tech-diversity-files/how-diversity-branding-hurts-diversity-fb29dd705481) by Rachel Thomas
     - This Twitter [thread](https://twitter.com/nbedera/status/1218221038560874497) on physical self-defense trainings by Nicole Bedera
     - [Stop Telling Women They Have Imposter Syndrome](https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome) by by Ruchika Tulshyan and Jodi-Ann Burey
@@ -358,6 +355,10 @@ These are researchers focused on sexual harassment in academia whose work we've 
 - [Dr. Sarah Peitzmeier](https://nursing.umich.edu/faculty-staff/faculty/sarah-m-peitzmeier)
 - [Dr. Charlene Y. Senn](https://charlenesenn.ca/)
 - [Dr. Kate Manne](http://www.katemanne.net/)
+
+## CONSULTANTS <a name="consultants"></a>
+
+If you or your department would like to hire someone to help design a safer workplace, you might want to check out [Beyond Compliance Consulting](https://www.beyond-compliance-consulting.com/) which is run by experts and follows evidence-based approaches.
 
 <br><br>
 
