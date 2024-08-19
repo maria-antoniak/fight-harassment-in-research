@@ -342,7 +342,14 @@ Guard the victim from their harasser. If you are at an event where both are pres
 - [How University Title IX Offices Fail Survivors](https://www.thenation.com/article/society/title-ix-anniversary-reform-protests-princeton-university/)
 - [The Mobilization of Title IX across U.S. Colleges and Universities, 1994-2014](https://academic.oup.com/socpro/article/66/2/245/4956096?guestAccessKey=fd2ec10e-2cc2-4d5f-b7d8-cbf0d6f4619e) by Celene Reynolds
 - [More than 70 lab heads removed from NIH grants after harassment findings](https://www.science.org/content/article/nih-removed-more-70-lab-heads-grants-after-harassment-complaints)
+
+<br><br>
+
+## BOOKS <a name="books"></a>
+
 - [Complaint](https://www.dukeupress.edu/complaint) by Sara Ahmed
+- [On the Wrong Side: How Universities Protect Perpetrators and Betray Survivors of Sexual Violence](https://bookshop.org/p/books/on-the-wrong-side-how-universities-protect-perpetrators-and-betray-survivors-of-sexual-violence-nicole-bedera/21312168?ean=9780520395893) by Nicole Bedera
+- [Sexual Justice: Supporting Victims, Ensuring Due Process, and Resisting the Conservative Backlash](https://us.macmillan.com/books/9781250262547/sexualjustice) by Alexandra Brodsky
 
 <br><br>
 
